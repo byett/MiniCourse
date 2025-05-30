@@ -8,3 +8,7 @@
 * Run: code .
 * Run: utop
 * In utop, run: #use "nameOfFile.ml";;
+
+### Hardcaml docs
+* Once you have access to HardCaml documentation, can run python -m http.server <portnum> (replacing <portnum> with a portnumber not currently in use such as 8080) from specifically the initial directly of the repository
+* Then go to your web browser and type localhost:<portnum> (again replacing <portnum> with the number chosen in the previous step)
